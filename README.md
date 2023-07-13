@@ -1,5 +1,3 @@
-
-https://github.com/aghalya-n/expensesTracker/assets/92762103/6b33f9f7-2774-4f6b-b424-a0246bfab990
 ## expensesTracker
 
 - expenses tracker by year (2021-2024)
