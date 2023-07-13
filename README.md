@@ -1,5 +1,6 @@
 ## expenses tracker
-### created with react
+
+- *created with react*
 
 - expenses tracker by year (2021-2024)
 - chart organizing expenses per month
